@@ -7,14 +7,16 @@
 # Criteria A: Planning
 
 ## Problem Definition
-The client Mr. K is a student at UWC ISAK and he is a professional archery player.
+
+The client Mr. K is a student at UWC ISAK and he is a professional archery player. He is buying new equiptments for the club that he founded which is Archery Club. But he is not sure how to manage all the equiptments he will buy for the clubs since there is more than 15 people in the club. So he needs a application that organizes all the item that his club own. And he should also be able to edit the items that he recorded.
 
 ## Proposed Solution
 
 
 
 ## Design statement
-We will make a poster with all of our progress documented. We will have a system diagram, the materials we used, the set up. And the process of actually programming and running it.  graphs that show the temperature and humidity in mean, standad deviation, minimum, maximum, and median so that the client will understand what the humidity and the temperature in his room is in one glance. We will also add a graph that shows a prediction of the subsequent 12 hours for both temperature and humidity. As a conclusion we will talk about the health effects that this data represents and the effect to the violin as well.
+
+
 
 ## Success Criteria
 
