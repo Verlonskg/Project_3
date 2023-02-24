@@ -20,12 +20,13 @@ The client Mr. K is a student at UWC ISAK and he is a professional archery playe
 
 ## Success Criteria
 
-1. The application is able to add all the quiptments that Archery Club owns also add new items that was bought.
-2. the application also allows you to delete things that are lost or stolen for example.
-3. It also shows you the entire item in the inventory in one glance, with all the details nessesary.
-4.
-5.
-6.
+1. The application allows users to signup and make a account, also login
+2. The application is able to add all the quiptments that Archery Club owns also add new items that was bought.
+3. the application also allows you to delete things that are lost or stolen for example.
+4. It also shows you the entire item in the inventory in one glance, with all the details nessesary.
+5. The application allows users to edit the information of the data, in case there is a faulse input of information
+6. The application calculates the total budget spent in archery club.
+
 
 # Criteria B: Design
 
