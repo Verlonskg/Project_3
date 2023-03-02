@@ -1,7 +1,7 @@
 # Project_3
 # Unit 3: ISAK Archery Club Inventory
 
-![[Archery_club.png](https://github.com/Verlonskg/Project_3/blob/main/Archery%20club.png)
+![Archery_club.png](https://github.com/Verlonskg/Project_3/blob/main/Archery%20club.png)
 **Fig.1**
 
 # Criteria A: Planning
