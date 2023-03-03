@@ -37,11 +37,8 @@ The client Mr. K is a student at UWC ISAK and he is a professional archery playe
 
 
 ## Record of Tasks
-| Task No | Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
+| Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
 |---------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------| 
-16 minutes ago
-
-Update README.md
 | 1       | Meet with the client and take the request | This was the first meeting we had and we talked about what kind of application he wanted and I also got some of the funtionalities that he specifically requested | 6 min | Jan 10 | A
 | 2       | Define Problem Defenition | I made a problem defenition for my client baised on his request and presented to him | 15 min | Jan 11 | A
 | 3       | Decide on the success criteria | This was the second meeting when we decided on few of the sucsess criteria for this project | 30 min | Jan 12 | A
